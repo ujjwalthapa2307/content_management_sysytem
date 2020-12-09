@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is content management system which is based on ruby on rails framework ........... TO be ... continued.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version : 2.6.3
 
-* System dependencies
+* rails version : 6.0.3
 
-* Configuration
+* Mysql : 0.4.4
 
-* Database creation
+* Database: simple_cms_development
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Database : simple_cms_test
